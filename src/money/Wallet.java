@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Random;
 
 /**
- * Created by Aschur on 14.11.2016.
+ * Created by Aschur on 14.11.2016
  */
 public class Wallet {
 
