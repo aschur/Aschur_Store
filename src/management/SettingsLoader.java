@@ -3,7 +3,7 @@ package management;
 import java.io.*;
 
 /**
- * Created by Aschur on 15.01.2017.
+ * Created by Aschur on 15.01.2017
  */
 public class SettingsLoader {
 
@@ -41,7 +41,7 @@ public class SettingsLoader {
 
         String allString = sb.toString().trim();
 
-        settings = allString.split("\r\n");
+        settings = allString.split("\n");
 
         return settings;
 
