@@ -3,7 +3,7 @@ package management;
 import java.io.*;
 
 /**
- * Created by Aschur on 15.01.2017.
+ * Created by Aschur on 15.01.2017. 1
  */
 public class SettingsLoader {
 
